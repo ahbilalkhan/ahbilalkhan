@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Bilal%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Distributed%20Systems%20%7C%20Cloud%20Architecture%20%7C%20Engineering%20Leadership&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=200&section=header&text=Ahmed%20Bilal%20Khan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Distributed%20Systems%20%7C%20Cloud%20Architecture%20%7C%20Engineering%20Leadership&descAlignY=58&descSize=16" width="100%" />
 
 </div>
 
