@@ -17,7 +17,7 @@ Every system I build is designed with **observability**, **resilience**, and **o
 ### Core Competencies
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117', 'primaryColor': '#1e1b4b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#8b5cf6', 'lineColor': '#8b5cf6', 'secondaryColor': '#0f172a', 'tertiaryColor': '#0d1117', 'nodeBorder': '#8b5cf6', 'nodeTextColor': '#e2e8f0', 'edgeLabelBackground': '#0d1117'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117', 'primaryColor': '#1e1b4b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#8b5cf6', 'lineColor': '#8b5cf6', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#16213e', 'nodeTextColor': '#e2e8f0'}}}%%
 mindmap
   root((Engineering))
     Architectural
@@ -148,8 +148,8 @@ Developed internal developer platform (IDP) reducing service onboarding time fro
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahbilalkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/ahbilalkhan)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahbilalkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/ahbilalkhan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahbilalkhan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true&rank_icon=github)](https://github.com/ahbilalkhan)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahbilalkhan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8)](https://github.com/ahbilalkhan)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahbilalkhan&theme=radical&hide_border=true&background=0d1117)](https://github.com/ahbilalkhan)
 
