@@ -17,7 +17,7 @@ Every system I build is designed with **observability**, **resilience**, and **o
 ### Core Competencies
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117', 'primaryColor': '#8b5cf6', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#334155', 'lineColor': '#8b5cf6', 'secondaryColor': '#1e1b4b', 'tertiaryColor': '#0f172a', 'clusterBkg': '#0d1117', 'clusterBorder': '#1f2937'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true, 'background': '#0d1117', 'primaryColor': '#1e1b4b', 'primaryTextColor': '#e2e8f0', 'primaryBorderColor': '#8b5cf6', 'lineColor': '#8b5cf6', 'secondaryColor': '#0f172a', 'tertiaryColor': '#0d1117', 'nodeBorder': '#8b5cf6', 'nodeTextColor': '#e2e8f0', 'edgeLabelBackground': '#0d1117'}}}%%
 mindmap
   root((Engineering))
     Architectural
